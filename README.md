@@ -1,0 +1,2 @@
+# CSC369
+Mynote
